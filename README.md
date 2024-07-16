@@ -28,10 +28,9 @@ How to get query? Follow this steps:
 9. in the left bar use the dropdown next to `session storage` and click on `telegram.blum.codes`
 10. select `telegram_initparam`
 11. right click on `tgwebappdata` and select `copy value`
-12. create a new directory in the same directory as executable file and name it `configs`
-13. create a new blank file with the name `query_list.conf`
-14. paste your query IDs
-15. run the bot and enjoy!
+12. paster your quey Id into the `configs/query.conf` file
+13. paste your query IDs
+154. run the bot and enjoy!
 
 
 ### Disclaimer
